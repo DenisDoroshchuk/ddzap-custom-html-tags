@@ -67,8 +67,8 @@ Yes, plugin was tested with WPForms version 1.5.8
 
 == Screenshots ==
 
-1. `/assets/Custom HTML Tags - checkbox.jpg`
-2. `/assets/Custom HTML Tags - radio.jpg`
+1. Checkbox page
+2. Radio Button page
 
 == Changelog ==
 
