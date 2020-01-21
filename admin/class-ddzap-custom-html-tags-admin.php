@@ -70,7 +70,7 @@ class Ddzap_Custom_Html_Tags_Admin {
 	/**
 	 * Add Setting Link on Plugins page
 	 *
-	 * @since    1.0.0
+	 * @since    1.0.1
 	 */
 	public function plugin_action_links( $links ) {
 

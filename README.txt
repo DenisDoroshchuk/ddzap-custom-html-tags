@@ -4,7 +4,7 @@ Donate link: https://www.paypal.me/doroshchuk
 Tags: custom checkbox, custom radio, custom radio buttons, custom woocommerce checkbox, custom woocommerce radio buttons, customization checkbox, customization radio buttons
 Requires at least: 5.3.2
 Tested up to: 5.3.2
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 Requires PHP: 7.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html

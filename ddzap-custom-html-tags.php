@@ -16,7 +16,7 @@
  * Plugin Name:       Custom Design for HTML Tags
  * Plugin URI:        https://ddzap.com/
  * Description:       Simple plugin allow to creating custom design for Checkbox and Radio button HTML tags on you site. Plugins Support: WooCommerce, Contact Form 7
- * Version:           1.0.0
+ * Version:           1.0.1
  * Author:            Denis Doroshchuk
  * Author URI:        https://ddzap.com/
  * License:           GPL-2.0+
