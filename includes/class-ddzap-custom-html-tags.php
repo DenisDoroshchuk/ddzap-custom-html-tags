@@ -159,7 +159,7 @@ class Ddzap_Custom_Html_Tags {
 
 		$this->loader->add_action('admin_menu', $plugin_admin, 'admin_menu');
 
-		$this->loader->add_action("plugin_action_links_{$this->get_plugin_name()}/ddzap-custom-html-tags.php", $plugin_admin, 'plugin_action_links');
+		$this->loader->add_action("plugin_action_links_custom-design-for-html-tags/ddzap-custom-html-tags.php", $plugin_admin, 'plugin_action_links');
 
 	}
 
